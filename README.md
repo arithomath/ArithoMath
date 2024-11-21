@@ -4,9 +4,7 @@ STEP 1: Download Arduino IDE via web browser
 
 STEP 2: Download these libraries from the library manager ( left side panel of the Arduino IDE )
           
-          -> LCD03 by Ben Arblaster
-          
-          -> LCD-I2C by Frank Häfele
+          -> LiquidCrystal I2C by Frank de Brabander
         
           -> Keypad by Mark Stanley, Alexander Brevig
           
