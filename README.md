@@ -13,5 +13,7 @@ STEP 2: Download these libraries from the library manager ( left side panel of t
 STEP 3: Install ArithoMath_CODE.ino and open via Arduino IDE
 
 STEP 4: Connect the Arduino UNO board to your computer using a Type B USB Cable
+
 STEP 5: Edit as you like
-STEP 5: Upload
+
+STEP 6: Upload
