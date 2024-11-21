@@ -489,7 +489,7 @@ void correctBeep() {
   tone(buzzerPin, 3500, 100);  // Start the second buzzer tone
   delay(100);                  // Wait for the second buzzer tone duration
   // Let the LED stay on for an additional time
-  delay(700);                   // LED stays on longer (adjust as needed)
+  delay(900);                   // LED stays on longer (adjust as needed)
   digitalWrite(greenLed, LOW);  // Turn off the LED
 }
 
@@ -498,7 +498,7 @@ void incorrectBeep() {
   tone(buzzerPin, 1000, 500);  // Start buzzer tone
   delay(500);                  // Wait for the buzzer tone duration
   // Let the LED stay on for an additional time
-  delay(700);                 // LED stays on longer (adjust as needed)
+  delay(900);                 // LED stays on longer (adjust as needed)
   digitalWrite(redLed, LOW);  // Turn off the LED
 }
 
